@@ -1,0 +1,156 @@
+{
+  "tagDB": [
+    {
+      "image": "./assets/1.png",
+      "tags": ["alert", "notification"]
+    },
+    {
+      "image": "./assets/2.png",
+      "tags": ["books", "library"]
+    },
+    {
+      "image": "./assets/3.png",
+      "tags": ["books", "library"]
+    },
+    {
+      "image": "./assets/4.png",
+      "tags": ["car", "vehicle"]
+    },
+    {
+      "image": "./assets/5.png",
+      "tags": ["cloudy", "blur"]
+    },
+    {
+      "image": "./assets/6.png",
+      "tags": ["cloudy", "blur"]
+    },
+    {
+      "image": "./assets/7.png",
+      "tags": ["love", "heart"]
+    },
+    {
+      "image": "./assets/8.png",
+      "tags": ["dog", "puppy"]
+    },
+    {
+      "image": "./assets/9.png",
+      "tags": ["house", "mention"]
+    },
+    {
+      "image": "./assets/10.png",
+      "tags": ["love", "heart"]
+    },
+    {
+      "image": "./assets/11.png",
+      "tags": ["lemon", "fruit"]
+    },
+    {
+      "image": "./assets/12.png",
+      "tags": ["email", "mail"]
+    },
+    {
+      "image": "./assets/13.png",
+      "tags": ["cafe", "coffee shop"]
+    },
+    {
+      "image": "./assets/14.png",
+      "tags": ["rose", "flower"]
+    },
+    {
+      "image": "./assets/15.png",
+      "tags": ["flowerpot", "tree"]
+    },
+    {
+      "image": "./assets/16.png",
+      "tags": ["sunny", "sun"]
+    },
+    {
+      "image": "./assets/17.png",
+      "tags": ["school", "academy"]
+    },
+    {
+      "image": "./assets/18.png",
+      "tags": ["cafe", "coffee shop"]
+    },
+    {
+      "image": "./assets/19.png",
+      "tags": ["Embarrassment", "absurd"]
+    },
+    {
+      "image": "./assets/20.png",
+      "tags": ["feel good", "brisk"]
+    },
+    {
+      "image": "./assets/21.png",
+      "tags": ["worry", "anxiety"]
+    },
+    {
+      "image": "./assets/22.png",
+      "tags": ["stress", "stressful"]
+    },
+    {
+      "image": "./assets/23.png",
+      "tags": ["angry", "anger"]
+    },
+    {
+      "image": "./assets/24.png",
+      "tags": ["angry", "anger"]
+    },
+    {
+      "image": "./assets/25.png",
+      "tags": ["study", "test preparation"]
+    },
+    {
+      "image": "./assets/26.png",
+      "tags": ["test", "exam"]
+    },
+    {
+      "image": "./assets/27.png",
+      "tags": ["work", "outside work"]
+    },
+    {
+      "image": "./assets/28.png",
+      "tags": ["work", "business processing"]
+    },
+    {
+      "image": "./assets/29.png",
+      "tags": ["soccer", "sports"]
+    },
+    {
+      "image": "./assets/30.png",
+      "tags": ["badminton", "sports"]
+    },
+    {
+      "image": "./assets/31.png",
+      "tags": ["friend", "make friends"]
+    },
+    {
+      "image": "./assets/32.png",
+      "tags": ["girl friend", "make friends"]
+    },
+    {
+      "image": "./assets/33.png",
+      "tags": ["romantic", "love"]
+    },
+    {
+      "image": "./assets/34.png",
+      "tags": ["love", "fall in love"]
+    },
+    {
+      "image": "./assets/35.png",
+      "tags": ["놀다"]
+    },
+    {
+      "image": "./assets/36.png",
+      "tags": ["trip", "travel"]
+    },
+    {
+      "image": "./assets/37.png",
+      "tags": ["teacher", "female teacher"]
+    },
+    {
+      "image": "./assets/38.png",
+      "tags": ["dad", "father"]
+    }
+  ]
+}

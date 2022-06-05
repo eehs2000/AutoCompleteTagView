@@ -1,0 +1,33 @@
+body {
+  width: 100%;
+  background-color: #777777;
+}
+h1 {
+  font-size: 50px;
+  color: white;
+  text-align: center;
+}
+
+.search-div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.search-input {
+  width: 30rem;
+  height: 50px;
+  padding-left: 20px;
+  border: 0;
+  font-size: 1.8rem;
+  border-radius: 10px;
+}
+
+.matchingImg {
+  width: 100px;
+  height: 100px;
+}
+
+.matchingText {
+  font-size: 30px;
+}
